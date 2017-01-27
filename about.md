@@ -3,28 +3,18 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<p>
+<div style="width: auto">
+<img src="/pics/personal_pic.png" alt="Me." style="float: right; width: 30%;max-height: 30%; PADDING-LEFT: 30px"/> 
+<p>
 
-There are currently two themes built on Poole:
+<!-- above code nabbed from http://stackoverflow.com/questions/7177881/how-can-i-put-css-and-html-code-in-the-same-file and http://support2.constantcontact.com/articles/FAQ/3637 -->
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+<p>Hi, I’m Jorge Cimentada and I’m a PhD candidate in Sociology at <a href=https://www.upf.edu/en/web/politiques/home> Pompeu Fabra University</a> in Barcelona, Spain. I belong to the <a href=https://www.upf.edu/survey/> Research and Expertise Centre for Survey Methodology (RECSM)</a> and my main research interests are the study of achievement inequality, the role of schools in reproducing these inequalities and early education as a remedy to achievement inequalities. I’m also working in a project related to class mobility and how it has changed over time in industrialized countries in the <a href=https://www.upf.edu/web/demosoc/> DEMOSOC</a> research group. <p>
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+<p> I am very passionate about statistical programming with R(missing link to learning section), data visualization, statistics and drums. <p>
 
-## Setup
+<p> If you wish to contact me send me an email to <a href="mailto:cimentadaj@gmail.com"> cimentadaj@gmail.com</a>. I’m also on <a href= https://github.com/cimentadaj> Github </a> and <a href = https://www.linkedin.com/in/jorge-cimentada-1740877a/> Linkedin</a> <p>.
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<p>Feel free to send me an email at <a href="mailto:nicholas.tierney@gmail.com">nicholas.tierney@gmail.com</a>.</p>
