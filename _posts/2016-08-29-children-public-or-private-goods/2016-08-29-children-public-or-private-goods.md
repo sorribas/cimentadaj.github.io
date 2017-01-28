@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Children: public or private goods?"
-comments: True
+comments: true
 ---
 
 The role of the welfare state, as agreed by many scholars, is to de-commodify its citizens. Some argue that this should be the way that the generosity of the state should be measured; instead of net public and private social expenditure, it should be the extent to which citizens are de-commodified by the services and transfers of the welfare state.
