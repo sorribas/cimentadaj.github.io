@@ -30,3 +30,8 @@ github:
 gems:
   - jekyll-paginate
   - jekyll-gist
+
+pages_list:       
+  About: '/about'
+  Learning and resources: '/Learning and resources'
+  CV: '/CV'
