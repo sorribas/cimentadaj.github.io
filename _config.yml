@@ -2,11 +2,12 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Jorge Cimentada
+tagline:             cimentadaj
+url:                 http://www.jorgecimentada.com
 paginate:            1
 baseurl:             ""
+encoding:            utf-8
 
 # Assets
 #
@@ -17,14 +18,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Jorge Cimentada
+  url:               https://www.jorgecimentada.com
+  email:             cimentadaj@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/cimentadaj/cimentadaj.github.io
 
 # Gems
 gems:
