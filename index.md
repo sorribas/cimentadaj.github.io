@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Jorge Cimentada
 order: 1
 ---
 
